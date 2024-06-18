@@ -1,3 +1,5 @@
+This project was implemented by Feyisara Agiri and Victoria Oluwatoyin Oyekunle
+
 # Jadoo Travels Repository
 Welcome to the Jadoo Travels repository! This repository is meant for collaborating on one of Women Techsters Project.
 This is part of a larger assessment
